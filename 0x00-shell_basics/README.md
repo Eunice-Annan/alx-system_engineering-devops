@@ -1,1 +1,1 @@
-a symbolic link to /bin/ls
+ a symbolic link to /bin/ls
